@@ -1,6 +1,6 @@
 ## Happy/Sad Image Classification Using Deep Learning
 
-###This project demonstrates the use of deep learning techniques to classify images as happy or sad.
+### This project demonstrates the use of deep learning techniques to classify images as happy or sad.
 
 
 

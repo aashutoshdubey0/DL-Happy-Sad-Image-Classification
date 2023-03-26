@@ -2,6 +2,9 @@
 
 ### This project demonstrates the use of deep learning techniques to classify images as happy or sad.
 
+## Link to use Streamlit based WebApp of this CNN Model:
+https://aashutoshdubey0-dl-happy-sad-image-classification-app-gqf714.streamlit.app/
+
 ## Architecture
 The CNN consists of 3 convolutional layers and 3 max pooling layers. Each convolutional layer uses a 3x3 kernel with stride of 1 and activation function 'relu' to extract features from the input image. The max pooling layers use a 2x2 kernel with stride of 2 to downsample the feature maps. The last convolutional layer is followed by a flatten layer to convert the 3D feature maps into a 1D feature vector. The flattened output is then passed through 2 dense layers with activation function 'relu' and 'sigmoid' respectively, to produce a binary classification output.
 
